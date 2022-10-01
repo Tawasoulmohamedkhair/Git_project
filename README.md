@@ -1,2 +1,2 @@
 # Git_project
-gor git learning
+for git learning
